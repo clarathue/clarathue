@@ -11,11 +11,11 @@ I am Clara Thümecke, a passionate and experienced Business Intelligence and Dat
 📨 **Get in Touch!**
 - If you are looking for a dedicated and skilled data professional to join your team, feel free to drop me an email: clara@thuemecke.net
 
-#### Business Intelligence & Data Science Projects
+### Business Intelligence & Data Science Projects
 - **🏎️ Traffic Analysis - d-drivers**: Data-driven search for traffic drivers. This project involved analyzing the internal content data of EFAHRER.com. Our team modeled page impressions in the news feed and developed a data app for editorial managers.
 - **📊 LinkedIn Recruiter Data Analysis**: Created an interactive dashboard for an Recruitment Process Optimization Company to analyze LinkedIn recruiter data. This project involved collecting and processing LinkedIn data to provide insights into recruiter activities, job postings, and candidate interactions.
 
-#### Currently working on
+### Currently working on
 - **🧩 Mind Mingle**: The conceived application transforms PDF-based learning materials, such as scanned textbook pages, into interactive learning games. By integrating gamified elements, the learning process is optimizied and offers users a playful approach to engaging with precise content.
 
 ### Additional Skills and Tools
