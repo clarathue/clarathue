@@ -19,7 +19,7 @@ I am Clara Thümecke, a passionate and experienced Business Intelligence and Dat
 - **🧩 Mind Mingle**: The conceived application transforms PDF-based learning materials, such as scanned textbook pages, into interactive learning games. By integrating gamified elements, the learning process is optimizied and offers users a playful approach to engaging with precise content.
 
 ### Additional Skills and Tools
-- **Technical Proficiency**: Python, SPSS, CMS, CRM, SQL, R, Tableau, Power BI, Excel, Git, Jupyter Notebooks, Machine Learning Libraries (scikit-learn, TensorFlow, Keras)
+- **Technical Proficiency**: Python, CMS, CRM, SQL, Power BI, Excel, Git, Jupyter Notebooks, Machine Learning Libraries (scikit-learn, TensorFlow, Keras)
 - **Business Skills**: Business Development, Sales Activities, Marketing Strategies
 
 Feel free to explore my repositories and reach out with any questions or collaboration ideas!
